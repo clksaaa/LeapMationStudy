@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.LeapMationStudy.iml
+# Datasource local storage ignored files
+/../../../../../../:\2018.4.26\LeapMationStudy\.idea\.idea.LeapMationStudy\.idea/dataSources/
+/dataSources.local.xml
